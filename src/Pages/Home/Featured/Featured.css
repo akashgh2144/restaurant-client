@@ -1,0 +1,7 @@
+.featured-background {
+    background-image: url('../../../assets/home/featured.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 40px 0; /* Adjust padding as needed */
+    color: white; /* Adjust text color based on your design */
+}
